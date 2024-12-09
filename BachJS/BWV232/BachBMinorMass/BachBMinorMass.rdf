@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>B Minor Mass - Aria</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 232</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Ensemble: Horn, 2 Bassoons, Bass, Continuo</mp:for>
+    <mp:date>1749</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>BGA Band 6 pp.118-125, 1900</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>BachBMinorMass-lys.zip</mp:lyFile>
+    <mp:midFile>BachBMinorMass.mid</mp:midFile>
+    <mp:psFileA4>BachBMinorMass-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>BachBMinorMass-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>BachBMinorMass-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>BachBMinorMass-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>BachBMinorMass-preview.png</mp:pngFile>
+    <mp:pngHeight>203</mp:pngHeight>
+    <mp:pngWidth>551</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/06/15-1462</mp:id>
+    <mp:maintainer>Jay Anderson</mp:maintainer>
+    <mp:maintainerEmail>horndude77@gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb>http://open-scores.blogspot.com/</mp:maintainerWeb>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.11.49</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

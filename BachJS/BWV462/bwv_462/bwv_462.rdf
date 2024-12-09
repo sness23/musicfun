@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Gott, wie gross ist deine Güte</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>Schmellis Gesangbuch, No. 26</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Piano</mp:for>
+    <mp:date>1736</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Franz Wullner edition, 1893 (on IMSLP)</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv_462.ly</mp:lyFile>
+    <mp:midFile>bwv_462.mid</mp:midFile>
+    <mp:psFileA4>bwv_462-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv_462-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv_462-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv_462-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv_462-preview.svg</mp:pngFile>
+    <mp:pngHeight>0</mp:pngHeight>
+    <mp:pngWidth>0</mp:pngWidth>
+
+    <mp:id>Mutopia-2016/02/17-2009</mp:id>
+    <mp:maintainer>David McNamara</mp:maintainer>
+    <mp:maintainerEmail>mapadofu@github</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

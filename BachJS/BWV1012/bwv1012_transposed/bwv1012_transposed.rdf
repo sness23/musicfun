@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rdf:RDF xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=".">
+    <mp:title>Cello Suite VI - BWV 1012 (Transposed)</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1012</mp:opus>
+    <mp:lyricist />
+    <mp:for>Cello</mp:for>
+    <mp:date />
+    <mp:style>Baroque</mp:style>
+    <mp:metre />
+    <mp:arranger />
+    <mp:source>Bach-Gesellschaft Edition 1879 Band 27</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+    <mp:lyFile>bwv1012_transposed-lys.zip</mp:lyFile>
+    <mp:midFile>bwv1012_transposed-mids.zip</mp:midFile>
+    <mp:psFileA4>bwv1012_transposed-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv1012_transposed-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv1012_transposed-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv1012_transposed-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv1012_transposed-preview.svg</mp:pngFile>
+    <mp:pngHeight>0</mp:pngHeight>
+    <mp:pngWidth>0</mp:pngWidth>
+    <mp:id>Mutopia-2018/06/04-2224</mp:id>
+    <mp:maintainer>Hajo Dezelski</mp:maintainer>
+    <mp:maintainerEmail>dl1sdz (at) gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb>http://www.roxele.de/</mp:maintainerWeb>
+    <mp:moreInfo />
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Jan 11  2017 .
+drwxr-xr-x    3 12501    100             3 Jan 21  2014 ..
+lrwxrwxrwx    1 523      523            44 Jan 11  2017 Makefile -> ../../../../UsefulScripts/Makefile.single_ly
+-rw-r--r--    1 12501    100        132178 Jan 21  2014 arioso-a4.pdf
+-rw-r--r--    1 12501    100        469203 Jan 21  2014 arioso-a4.ps.gz
+-rw-r--r--    1 12501    100        131427 Jan 21  2014 arioso-let.pdf
+-rw-r--r--    1 12501    100        469083 Jan 21  2014 arioso-let.ps.gz
+-rw-r--r--    1 12501    100        101658 Jan 11  2017 arioso-preview.svg
+-rw-r--r--    1 12501    100           243 Jan 21  2014 arioso.log
+-rw-r--r--    1 12501    100          8429 Jan 21  2014 arioso.ly
+-rw-r--r--    1 12501    100          6275 Jan 21  2014 arioso.mid
+-rw-r--r--    1 12501    100          1212 Jan 11  2017 arioso.rdf

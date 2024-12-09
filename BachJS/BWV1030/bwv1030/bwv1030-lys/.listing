@@ -1,0 +1,14 @@
+drwxr-xr-x    2 12501    100            14 Jan 03  2009 .
+drwxr-xr-x    3 12501    100            12 Oct 07  2011 ..
+-rw-r--r--    1 12501    100         15339 Apr 14  2007 clavecin_1.ly
+-rw-r--r--    1 12501    100          5235 Apr 14  2007 clavecin_2.ly
+-rw-r--r--    1 12501    100         12579 Apr 14  2007 clavecin_3.ly
+-rw-r--r--    1 12501    100          7767 Apr 14  2007 flute_1.ly
+-rw-r--r--    1 12501    100          1802 Apr 14  2007 flute_2.ly
+-rw-r--r--    1 12501    100          6079 Apr 14  2007 flute_3.ly
+-rw-r--r--    1 12501    100           803 Apr 14  2007 flute_part.ly
+-rw-r--r--    1 12501    100           392 Apr 14  2007 global.ly
+-rw-r--r--    1 12501    100          1326 Jan 03  2009 header.ly
+-rw-r--r--    1 12501    100           154 Apr 14  2007 metronom_3.ly
+-rw-r--r--    1 12501    100          1912 Apr 14  2007 score.ly
+-rw-r--r--    1 12501    100          1594 Apr 14  2007 triolen.ly

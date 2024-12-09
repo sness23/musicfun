@@ -1,0 +1,14 @@
+drwxr-xr-x    4 12501    100            14 Dec 16  2016 .
+drwxr-xr-x    3 12501    100            12 Dec 21  2016 ..
+-rw-r--r--    1 12501    100          6507 Nov 09  2016 bwv0036b_conductor.ly
+-rw-r--r--    1 12501    100          5165 Nov 09  2016 bwv0036b_continuo.ly
+-rw-r--r--    1 12501    100          1563 Nov 09  2016 bwv0036b_flute.ly
+-rw-r--r--    1 12501    100          2951 Nov 09  2016 bwv0036b_midi.ly
+-rw-r--r--    1 12501    100          1498 Nov 09  2016 bwv0036b_oboe.ly
+-rw-r--r--    1 12501    100          1998 Nov 09  2016 bwv0036b_viola.ly
+-rw-r--r--    1 12501    100          2045 Nov 09  2016 bwv0036b_violinI.ly
+-rw-r--r--    1 12501    100          2013 Nov 09  2016 bwv0036b_violinII.ly
+-rw-r--r--    1 12501    100           516 Nov 09  2016 bwv0036b_violin_solo.ly
+-rw-r--r--    1 12501    100          5606 Nov 09  2016 bwv0036b_vocal.ly
+drwxr-xr-x    2 12501    100            15 Nov 09  2016 common
+drwxr-xr-x    2 12501    100            10 Nov 09  2016 parts

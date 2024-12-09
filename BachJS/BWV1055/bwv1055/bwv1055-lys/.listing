@@ -1,0 +1,13 @@
+drwxr-xr-x    6 12501    100            13 Sep 14  2015 .
+drwxr-xr-x    3 12501    100            12 Nov 04  2015 ..
+-rw-r--r--    1 12501    100          2315 Sep 14  2015 bwv1055-conductor.ly
+-rw-r--r--    1 12501    100          1504 Sep 14  2015 bwv1055-midi.ly
+-rw-r--r--    1 12501    100          2424 Sep 14  2015 bwv1055-part-continuo.ly
+-rw-r--r--    1 12501    100          2422 Sep 14  2015 bwv1055-part-keyboard.ly
+-rw-r--r--    1 12501    100          2408 Sep 14  2015 bwv1055-part-viola.ly
+-rw-r--r--    1 12501    100          2418 Sep 14  2015 bwv1055-part-violin-1.ly
+-rw-r--r--    1 12501    100          2420 Sep 14  2015 bwv1055-part-violin-2.ly
+drwxr-xr-x    2 12501    100            20 Nov 04  2015 common
+drwxr-xr-x    2 12501    100            10 Sep 14  2015 mov1
+drwxr-xr-x    2 12501    100            10 Sep 14  2015 mov2
+drwxr-xr-x    2 12501    100            10 Sep 14  2015 mov3

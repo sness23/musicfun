@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Violin Concerto Nº 1 - Violin Solo</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1041</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin</mp:for>
+    <mp:date>1730</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Breitkopf and Härtel</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+
+    <mp:lyFile>bach-bwv1041-part-violin-solo-lys.zip</mp:lyFile>
+    <mp:midFile>bach-bwv1041-part-violin-solo-mids.zip</mp:midFile>
+    <mp:psFileA4>bach-bwv1041-part-violin-solo-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bach-bwv1041-part-violin-solo-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bach-bwv1041-part-violin-solo-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bach-bwv1041-part-violin-solo-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bach-bwv1041-part-violin-solo-preview.png</mp:pngFile>
+    <mp:pngHeight>277</mp:pngHeight>
+    <mp:pngWidth>536</mp:pngWidth>
+
+    <mp:id>Mutopia-2015/09/25-2051</mp:id>
+    <mp:maintainer>Federico Bruni and Javier Ruiz-Alma</mp:maintainer>
+    <mp:maintainerEmail>javier (at) ruiz-alma (dot) com</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

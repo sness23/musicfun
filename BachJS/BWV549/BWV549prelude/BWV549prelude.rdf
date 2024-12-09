@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Prélude de Prélude et Fugue en Ut mineur</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 549</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date>1708 1717</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Free Sheetmusic Library www.bh2000.net/score</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>BWV549prelude.ly</mp:lyFile>
+    <mp:midFile>BWV549prelude.mid</mp:midFile>
+    <mp:psFileA4>BWV549prelude-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>BWV549prelude-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>BWV549prelude-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>BWV549prelude-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>BWV549prelude-preview.png</mp:pngFile>
+    <mp:pngHeight>78</mp:pngHeight>
+    <mp:pngWidth>767</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/01/04-1202</mp:id>
+    <mp:maintainer>Pierre Pouillon</mp:maintainer>
+    <mp:maintainerEmail>pierre(at)ssji.net</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

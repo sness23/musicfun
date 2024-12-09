@@ -1,0 +1,15 @@
+drwxr-xr-x    2 12501    100            15 Nov 09  2016 .
+drwxr-xr-x    4 12501    100            14 Dec 16  2016 ..
+-rw-r--r--    1 12501    100         88739 Nov 09  2016 Bach_Seal.eps
+-rw-r--r--    1 12501    100          1658 Nov 09  2016 bwv0036b.ily
+-rw-r--r--    1 12501    100          1261 Nov 09  2016 cantataInstrumentNames.ily
+-rw-r--r--    1 12501    100          3312 Nov 09  2016 cantataStyle.ily
+-rw-r--r--    1 12501    100           468 Nov 09  2016 continuoStaff.ily
+-rw-r--r--    1 12501    100          3756 Nov 09  2016 definitions.ily
+-rw-r--r--    1 12501    100           829 Nov 09  2016 keyboardStaff.ily
+-rw-r--r--    1 12501    100           437 Nov 09  2016 singleInstScore.ily
+-rw-r--r--    1 12501    100          1641 Nov 09  2016 stringStaves.ily
+-rw-r--r--    1 12501    100           715 Nov 09  2016 title_section.ily
+-rw-r--r--    1 12501    100            20 Nov 09  2016 version.ily
+-rw-r--r--    1 12501    100          2741 Nov 09  2016 vocalStaves.ily
+-rw-r--r--    1 12501    100           640 Nov 09  2016 woodwindStaves.ily

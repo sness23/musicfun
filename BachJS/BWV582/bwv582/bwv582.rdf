@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Passacaglia</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 582</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>8656, C. F. Peters, Leipzig</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv582.ly</mp:lyFile>
+    <mp:midFile>bwv582.mid</mp:midFile>
+    <mp:psFileA4>bwv582-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv582-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv582-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv582-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv582-preview.png</mp:pngFile>
+    <mp:pngHeight>145</mp:pngHeight>
+    <mp:pngWidth>801</mp:pngWidth>
+
+    <mp:id>Mutopia-2006/04/21-741</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.8.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Dec 22  2016 .
+drwxr-xr-x   22 12501    100            22 Apr 29  2007 ..
+lrwxrwxrwx    1 523      523            44 Jan 21  2016 Makefile -> ../../../../UsefulScripts/Makefile.single_ly
+-rw-r--r--    1 12501    100        324269 Jan 21  2016 contrapunctusXI-a4.pdf
+-rw-r--r--    1 12501    100       1327827 Jan 21  2016 contrapunctusXI-a4.ps.gz
+-rw-r--r--    1 12501    100        323375 Jan 21  2016 contrapunctusXI-let.pdf
+-rw-r--r--    1 12501    100       1327133 Jan 21  2016 contrapunctusXI-let.ps.gz
+-rw-r--r--    1 12501    100         45546 Dec 22  2016 contrapunctusXI-preview.svg
+-rw-r--r--    1 12501    100           682 Jan 21  2016 contrapunctusXI.log
+-rw-r--r--    1 12501    100         15180 Jan 21  2016 contrapunctusXI.ly
+-rw-r--r--    1 12501    100         27695 Jan 21  2016 contrapunctusXI.mid
+-rw-r--r--    1 12501    100          1373 Dec 22  2016 contrapunctusXI.rdf

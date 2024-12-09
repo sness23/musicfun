@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Sonata for Violin and Clavier No.4</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1017</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin &amp;amp; Clavier</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Leipzig: Breitkopf &amp;amp; Härtel, (1860). Plate B.W.IX</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv1017.ly</mp:lyFile>
+    <mp:midFile>bwv1017-mids.zip</mp:midFile>
+    <mp:psFileA4>bwv1017-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv1017-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv1017-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv1017-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv1017-preview.png</mp:pngFile>
+    <mp:pngHeight>505</mp:pngHeight>
+    <mp:pngWidth>545</mp:pngWidth>
+
+    <mp:id>Mutopia-2010/01/09-1733</mp:id>
+    <mp:maintainer>Ryan Prince</mp:maintainer>
+    <mp:maintainerEmail>rprincerp@gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo>This file was created from a public domain scan of the work. The source is located in the Petrucci Music Library, http://imslp.org/.</mp:moreInfo>
+    <mp:lilypondVersion>2.12.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

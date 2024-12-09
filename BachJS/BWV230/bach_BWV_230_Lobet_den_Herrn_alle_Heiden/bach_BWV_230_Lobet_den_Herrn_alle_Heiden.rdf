@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Lobet den Herrn, alle Heiden (Psalm 117)</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 230</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Voice (SATB) and Continuo</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Edition Peters, 4592</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bach_BWV_230_Lobet_den_Herrn_alle_Heiden.ly</mp:lyFile>
+    <mp:midFile>bach_BWV_230_Lobet_den_Herrn_alle_Heiden.mid</mp:midFile>
+    <mp:psFileA4>bach_BWV_230_Lobet_den_Herrn_alle_Heiden-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bach_BWV_230_Lobet_den_Herrn_alle_Heiden-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bach_BWV_230_Lobet_den_Herrn_alle_Heiden-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bach_BWV_230_Lobet_den_Herrn_alle_Heiden-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bach_BWV_230_Lobet_den_Herrn_alle_Heiden-preview.png</mp:pngFile>
+    <mp:pngHeight>201</mp:pngHeight>
+    <mp:pngWidth>540</mp:pngWidth>
+
+    <mp:id>Mutopia-2009/03/09-1642</mp:id>
+    <mp:maintainer>Dieter Leber</mp:maintainer>
+    <mp:maintainerEmail>dieter.leber@gmx.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.12.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

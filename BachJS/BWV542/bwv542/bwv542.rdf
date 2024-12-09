@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Fantasia et Fuga in g</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 542</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>8657, C. F. Peters, Leipzig</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv542.ly</mp:lyFile>
+    <mp:midFile>bwv542-mids.zip</mp:midFile>
+    <mp:psFileA4>bwv542-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv542-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv542-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv542-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv542-preview.png</mp:pngFile>
+    <mp:pngHeight>139</mp:pngHeight>
+    <mp:pngWidth>791</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/05/20-984</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.23</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

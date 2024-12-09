@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Wir danken dir, Herr Jesu Christ</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 623</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date>1715</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Edition Peters 8660</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>bwv623.ly</mp:lyFile>
+    <mp:midFile>bwv623.mid</mp:midFile>
+    <mp:psFileA4>bwv623-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv623-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv623-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv623-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv623-preview.png</mp:pngFile>
+    <mp:pngHeight>139</mp:pngHeight>
+    <mp:pngWidth>785</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/11/10-1132</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

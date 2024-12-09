@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Jan 04  2017 .
+drwxr-xr-x    3 12501    100             3 Jan 14  2014 ..
+-rw-r--r--    1 12501    100        236476 Apr 22  2016 Bach_BrichAn-a4.pdf
+-rw-r--r--    1 12501    100       1639262 Apr 22  2016 Bach_BrichAn-a4.ps.gz
+-rw-r--r--    1 12501    100        238120 Apr 22  2016 Bach_BrichAn-let.pdf
+-rw-r--r--    1 12501    100       1639575 Apr 22  2016 Bach_BrichAn-let.ps.gz
+-rw-r--r--    1 12501    100         82511 Jan 04  2017 Bach_BrichAn-preview.svg
+-rw-r--r--    1 12501    100           974 Apr 22  2016 Bach_BrichAn.log
+-rw-r--r--    1 12501    100          4834 Apr 22  2016 Bach_BrichAn.ly
+-rw-r--r--    1 12501    100          2452 Apr 22  2016 Bach_BrichAn.mid
+-rw-r--r--    1 12501    100          1343 Jan 04  2017 Bach_BrichAn.rdf
+lrwxrwxrwx    1 523      523            44 Apr 22  2016 Makefile -> ../../../../UsefulScripts/Makefile.single_ly

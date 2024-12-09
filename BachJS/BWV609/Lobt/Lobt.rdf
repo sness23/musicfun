@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Lobt Gott, ihr Christen allzugleich</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 609</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date>1714</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>University of Rochester - Fauré 1917</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>Lobt.ly</mp:lyFile>
+    <mp:midFile>Lobt.mid</mp:midFile>
+    <mp:psFileA4>Lobt-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>Lobt-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>Lobt-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>Lobt-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>Lobt-preview.png</mp:pngFile>
+    <mp:pngHeight>182</mp:pngHeight>
+    <mp:pngWidth>785</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/05/13-953</mp:id>
+    <mp:maintainer>Pierre Pouillon</mp:maintainer>
+    <mp:maintainerEmail>pierre@ssji.net</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.23</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

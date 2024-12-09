@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Geliebter Jesu - From Cantata No. 16</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 16</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Oboe da Caccia or English Horn or Viola, Tenore, Basso Continuo</mp:for>
+    <mp:date>1726</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Hauptmann, 1852. Bach Gesellschaft Volume 2.</mp:source>
+    <mp:licence>Creative Commons Attribution 3.0</mp:licence>
+
+    <mp:lyFile>Cantata_16_no_5-lys.zip</mp:lyFile>
+    <mp:midFile>Cantata_16_no_5-mids.zip</mp:midFile>
+    <mp:psFileA4>Cantata_16_no_5-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>Cantata_16_no_5-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>Cantata_16_no_5-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>Cantata_16_no_5-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>Cantata_16_no_5-preview.png</mp:pngFile>
+    <mp:pngHeight>96</mp:pngHeight>
+    <mp:pngWidth>552</mp:pngWidth>
+
+    <mp:id>Mutopia-2009/09/05-1695</mp:id>
+    <mp:maintainer>Ben Stewart</mp:maintainer>
+    <mp:maintainerEmail>benjamin.james.stewart@gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

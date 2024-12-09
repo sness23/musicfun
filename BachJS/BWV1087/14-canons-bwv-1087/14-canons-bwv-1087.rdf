@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>14 Canons</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1087</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin, Viola, Cello</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Photocopy of Autograph</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>14-canons-bwv-1087-lys.zip</mp:lyFile>
+    <mp:midFile>14-canons-bwv-1087-mids.zip</mp:midFile>
+    <mp:psFileA4>14-canons-bwv-1087-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>14-canons-bwv-1087-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>14-canons-bwv-1087-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>14-canons-bwv-1087-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>14-canons-bwv-1087-preview.png</mp:pngFile>
+    <mp:pngHeight>514</mp:pngHeight>
+    <mp:pngWidth>555</mp:pngWidth>
+
+    <mp:id>Mutopia-2009/01/07-1620</mp:id>
+    <mp:maintainer>Moulun Stéphane</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

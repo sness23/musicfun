@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Concerto in E major for violin and strings</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1042</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin and String Orchestra: Two Violins, Viola, 'Cello</mp:for>
+    <mp:date>1717-23</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach Gesellschaft zu Leipzig, 1874</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>concerto-in-e-major-lys.zip</mp:lyFile>
+    <mp:midFile>concerto-in-e-major-mids.zip</mp:midFile>
+    <mp:psFileA4>concerto-in-e-major-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>concerto-in-e-major-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>concerto-in-e-major-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>concerto-in-e-major-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>concerto-in-e-major-preview.png</mp:pngFile>
+    <mp:pngHeight>719</mp:pngHeight>
+    <mp:pngWidth>539</mp:pngWidth>
+
+    <mp:id>Mutopia-2013/01/06-29</mp:id>
+    <mp:maintainer>David Chan</mp:maintainer>
+    <mp:maintainerEmail>davidchan@sheetmusic.org.uk</mp:maintainerEmail>
+    <mp:maintainerWeb>http://www.sheetmusic.org.uk/</mp:maintainerWeb>
+    <mp:moreInfo>When this music was last updated, the maintainer could not locate an out-of-copyright piano accompaniment. If anyone would be willing to submit such an arrangement to Mutopia, the world will be very grateful.</mp:moreInfo>
+    <mp:lilypondVersion>2.16.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

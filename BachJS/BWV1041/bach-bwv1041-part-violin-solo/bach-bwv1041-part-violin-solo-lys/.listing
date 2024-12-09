@@ -1,0 +1,9 @@
+drwxr-xr-x    6 12501    100             9 Sep 25  2015 .
+drwxr-xr-x    3 12501    100            12 Sep 25  2015 ..
+-rw-r--r--    1 12501    100          1366 Sep 25  2015 bach-bwv1041-midi.ly
+-rw-r--r--    1 12501    100          3773 Sep 25  2015 bach-bwv1041-part-violin-solo.ly
+drwxr-xr-x    2 12501    100             9 Sep 25  2015 common
+drwxr-xr-x    2 12501    100             5 Sep 25  2015 mov1
+drwxr-xr-x    2 12501    100             5 Sep 25  2015 mov2
+drwxr-xr-x    2 12501    100             5 Sep 25  2015 mov3
+-rw-r--r--    1 12501    100           946 Sep 25  2015 mutopia-header.ily

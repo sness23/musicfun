@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Helfft mir Gottes Güte preisen</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 613</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date>1740</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Autograph</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>bwv613.ly</mp:lyFile>
+    <mp:midFile>bwv613.mid</mp:midFile>
+    <mp:psFileA4>bwv613-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv613-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv613-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv613-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv613-preview.png</mp:pngFile>
+    <mp:pngHeight>147</mp:pngHeight>
+    <mp:pngWidth>785</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/10/29-1084</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

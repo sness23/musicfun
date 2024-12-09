@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Air</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1068, Mvmt. 2</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Orchestra</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>bach-air-lys.zip</mp:lyFile>
+    <mp:midFile>bach-air-mids.zip</mp:midFile>
+    <mp:psFileA4>bach-air-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>bach-air-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>bach-air-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>bach-air-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>bach-air-preview.png</mp:pngFile>
+    <mp:pngHeight>148</mp:pngHeight>
+    <mp:pngWidth>544</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/10/28-242</mp:id>
+    <mp:maintainer>jeff covey</mp:maintainer>
+    <mp:maintainerEmail>jeff.covey@pobox.com</mp:maintainerEmail>
+    <mp:maintainerWeb>http://pobox.com/~jeff.covey/</mp:maintainerWeb>
+    <mp:moreInfo>&lt;p&gt;The downloads include both the score and the individual instrument files.&lt;/p&gt;&lt;p&gt;Hans Hokke has made several improved MIDI (audio) files for this piece:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="../ftp/BachJS/BWV1068/bach-air/bach-air-jlh-35.mid"&gt;String quartet, 35 beats per minute&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="../ftp/BachJS/BWV1068/bach-air/bach-air-jlh-70.mid"&gt;String quartet, 70 beats per minute&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="../ftp/BachJS/BWV1068/bach-air/bach-air-jlh-40-organ.mid"&gt;Organ, 40 beats per minute&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(Of course, Bach played the organ himself, so he may have heard the Air played in a similar setting to the third version.)&lt;/p&gt;</mp:moreInfo>
+    <mp:lilypondVersion>2.11.62</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Die Kunst der Fuge, Contrapunctus VI</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1080</mp:opus>
+    <mp:lyricist/>
+    <mp:for>String Ensemble</mp:for>
+    <mp:date>?-1750</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Breitkopf &amp;amp; Härtel, 1885</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>contrapunctusVI.ly</mp:lyFile>
+    <mp:midFile>contrapunctusVI.mid</mp:midFile>
+    <mp:psFileA4>contrapunctusVI-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>contrapunctusVI-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>contrapunctusVI-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>contrapunctusVI-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>contrapunctusVI-preview.png</mp:pngFile>
+    <mp:pngHeight>153</mp:pngHeight>
+    <mp:pngWidth>552</mp:pngWidth>
+
+    <mp:id>Mutopia-2006/04/09-734</mp:id>
+    <mp:maintainer>Arnaud Gossart</mp:maintainer>
+    <mp:maintainerEmail>arnaud.gossart@tiscali.fr</mp:maintainerEmail>
+    <mp:maintainerWeb>http://arnaud.gossart.chez-alice.fr/</mp:maintainerWeb>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.8.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

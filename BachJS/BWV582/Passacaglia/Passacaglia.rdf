@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Passacaglia</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 582</mp:opus>
+    <mp:lyricist/>
+    <mp:for>String Quartet</mp:for>
+    <mp:date>1706?-1713?</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger>Arranged for string quartet by Carl M. Bolstad</mp:arranger>
+    <mp:source>MutopiaProject.org, ID# Mutopia-2006/04/21-741 set by Urs Metzger</mp:source>
+    <mp:licence>Creative Commons Attribution 3.0</mp:licence>
+
+    <mp:lyFile>Passacaglia-lys.zip</mp:lyFile>
+    <mp:midFile>Passacaglia-mids.zip</mp:midFile>
+    <mp:psFileA4>Passacaglia-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>Passacaglia-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>Passacaglia-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>Passacaglia-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>Passacaglia-preview.png</mp:pngFile>
+    <mp:pngHeight>160</mp:pngHeight>
+    <mp:pngWidth>543</mp:pngWidth>
+
+    <mp:id>Mutopia-2010/05/17-1775</mp:id>
+    <mp:maintainer>Carl M. Bolstad</mp:maintainer>
+    <mp:maintainerEmail>carl.bolstad@gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo>This piece was originally written for organ. The date that it was composed is not known, but available sources indicate that it's likely between about 1706 and 1713.</mp:moreInfo>
+    <mp:lilypondVersion>2.12.3</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

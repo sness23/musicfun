@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>In dich hab' ich gehoffet, Herr</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 640</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft Edition, OrgelWerke 1893</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 2.5</mp:licence>
+
+    <mp:lyFile>In_dich_habe_ich_gehoffet.ly</mp:lyFile>
+    <mp:midFile>In_dich_habe_ich_gehoffet.mid</mp:midFile>
+    <mp:psFileA4>In_dich_habe_ich_gehoffet-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>In_dich_habe_ich_gehoffet-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>In_dich_habe_ich_gehoffet-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>In_dich_habe_ich_gehoffet-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>In_dich_habe_ich_gehoffet-preview.png</mp:pngFile>
+    <mp:pngHeight>167</mp:pngHeight>
+    <mp:pngWidth>554</mp:pngWidth>
+
+    <mp:id>Mutopia-2006/06/05-774</mp:id>
+    <mp:maintainer>Gérard Gréco</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.8.3</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

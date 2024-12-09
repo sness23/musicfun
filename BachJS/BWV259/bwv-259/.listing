@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Jan 04  2017 .
+drwxr-xr-x    3 12501    100             3 Jul 12  2016 ..
+lrwxrwxrwx    1 523      523            44 Jul 12  2016 Makefile -> ../../../../UsefulScripts/Makefile.single_ly
+-rw-r--r--    1 12501    100        161609 Jul 12  2016 bwv-259-a4.pdf
+-rw-r--r--    1 12501    100       1183210 Jul 12  2016 bwv-259-a4.ps.gz
+-rw-r--r--    1 12501    100        161639 Jul 12  2016 bwv-259-let.pdf
+-rw-r--r--    1 12501    100       1183272 Jul 12  2016 bwv-259-let.ps.gz
+-rw-r--r--    1 12501    100         45786 Jan 04  2017 bwv-259-preview.svg
+-rw-r--r--    1 12501    100           360 Jul 12  2016 bwv-259.log
+-rw-r--r--    1 12501    100          3901 Jul 12  2016 bwv-259.ly
+-rw-r--r--    1 12501    100          2130 Jul 12  2016 bwv-259.mid
+-rw-r--r--    1 12501    100          1339 Jan 04  2017 bwv-259.rdf

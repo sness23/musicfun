@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Prélude en mi mineur</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 533</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft Ausgabe IMSLP</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>BWV533.ly</mp:lyFile>
+    <mp:midFile>BWV533.mid</mp:midFile>
+    <mp:psFileA4>BWV533-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>BWV533-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>BWV533-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>BWV533-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>BWV533-preview.png</mp:pngFile>
+    <mp:pngHeight>247</mp:pngHeight>
+    <mp:pngWidth>539</mp:pngWidth>
+
+    <mp:id>Mutopia-2013/06/16-1843</mp:id>
+    <mp:maintainer>Pierre Pouillon</mp:maintainer>
+    <mp:maintainerEmail>pierre(at)ssji.net</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.16.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

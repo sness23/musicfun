@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Brandenburg Concerto No. 2</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1047</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Trumpet, Flute, Oboe, Violin, Violone, Viola, Violincello</mp:for>
+    <mp:date>1717-1723?</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Rust, 1871. Bach Gesellschaft Volume 19</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>brandenburg_2-lys.zip</mp:lyFile>
+    <mp:midFile>brandenburg_2-mids.zip</mp:midFile>
+    <mp:psFileA4>brandenburg_2-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>brandenburg_2-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>brandenburg_2-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>brandenburg_2-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>brandenburg_2-preview.png</mp:pngFile>
+    <mp:pngHeight>760</mp:pngHeight>
+    <mp:pngWidth>557</mp:pngWidth>
+
+    <mp:id>Mutopia-2009/06/13-1680</mp:id>
+    <mp:maintainer>Andy Vaught</mp:maintainer>
+    <mp:maintainerEmail>andy.vaught@gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

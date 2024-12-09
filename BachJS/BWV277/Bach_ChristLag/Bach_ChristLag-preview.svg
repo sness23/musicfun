@@ -1,0 +1,838 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="192.62mm" height="89.86mm" viewBox="-1.6456 -0.0000 121.1157 56.5046">
+<rect transform="translate(70.7852, 18.7262)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(70.7852, 33.9154)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(70.7852, 47.8717)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(24.8763, 4.7699)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(24.8763, 18.7262)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(24.8763, 33.9154)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(24.8763, 47.8717)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(117.5284, 47.3717) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(117.5284, 48.3717) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(118.8287, 47.8717)" x="0.0000" y="-2.0000" width="0.6414" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(118.3049, 47.8717)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(117.5284, 33.4154) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(117.5284, 34.4154) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(118.8287, 33.9154)" x="0.0000" y="-2.0000" width="0.6414" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(118.3049, 33.9154)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(117.5284, 18.2262) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(117.5284, 19.2262) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(118.8287, 18.7262)" x="0.0000" y="-2.0000" width="0.6414" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(118.3049, 18.7262)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(48.0626, 47.8717)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(117.5284, 4.2699) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(117.5284, 5.2699) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(118.8287, 4.7699)" x="0.0000" y="-2.0000" width="0.6414" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(118.3049, 4.7699)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(48.0626, 33.9154)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(48.0626, 18.7262)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(48.0626, 4.7699)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(101.7956, 4.7699)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(101.7956, 18.7262)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(101.7956, 33.9154)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(101.7956, 47.8717)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<line transform="translate(9.4319, 6.7699)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 5.7699)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 4.7699)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 3.7699)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 2.7699)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<rect transform="translate(0.0000, 21.7262)" x="77.6955" y="-0.1034" width="1.8559" height="0.2069" ry="0.1034" fill="currentColor"/>
+<rect transform="translate(0.0000, 21.7262)" x="103.7980" y="-0.1034" width="1.8559" height="0.2069" ry="0.1034" fill="currentColor"/>
+<rect transform="translate(0.0000, 21.7262)" x="111.0283" y="-0.1034" width="2.0171" height="0.2069" ry="0.1034" fill="currentColor"/>
+<rect transform="translate(0.0000, 21.7262)" x="113.7146" y="-0.1034" width="2.0171" height="0.2069" ry="0.1034" fill="currentColor"/>
+<rect transform="translate(0.0000, 22.7262)" x="113.7146" y="-0.1034" width="2.0171" height="0.2069" ry="0.1034" fill="currentColor"/>
+<line transform="translate(9.4319, 20.7262)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 19.7262)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 18.7262)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 17.7262)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 16.7262)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 35.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 34.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 33.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 32.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 31.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<rect transform="translate(70.7852, 4.7699)" x="0.0000" y="-2.0000" width="0.2031" height="4.0000" ry="0.0000" fill="currentColor"/>
+<line transform="translate(9.4319, 49.8717)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 48.8717)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 47.8717)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 46.8717)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<line transform="translate(9.4319, 45.8717)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1069" stroke="currentColor" x1="0.0534" y1="-0.0000" x2="109.9848" y2="-0.0000"/>
+<text transform="translate(95.6980, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(95.0566, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+das</tspan>
+</text>
+<path transform="translate(96.6291, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(95.6980, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<rect transform="translate(73.2215, 18.7262)" x="-0.0695" y="-1.1771" width="0.1390" height="2.9920" ry="0.0442" fill="currentColor"/>
+<text transform="translate(95.0566, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+das</tspan>
+</text>
+<rect transform="translate(97.9043, 4.7699)" x="-0.0695" y="-2.1767" width="0.1390" height="2.9915" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(97.9043, 33.9154)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<text transform="translate(71.9463, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+un</tspan>
+</text>
+<rect transform="translate(96.6985, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<path transform="translate(71.9463, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(99.1093, 6.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(99.1093, 21.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(98.1782, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(97.5369, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+das</tspan>
+</text>
+<rect transform="translate(100.3845, 4.7699)" x="-0.0695" y="-1.8233" width="0.1390" height="3.1382" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(87.6196, 47.8717)" x="-0.0695" y="-2.8049" width="0.1390" height="3.1197" ry="0.0442" fill="currentColor"/>
+<path transform="translate(84.8700, 48.3717) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<path transform="translate(91.2810, 49.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(92.5562, 47.8717)" x="-0.0695" y="-2.1951" width="0.1390" height="3.5100" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(73.2215, 4.7699)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<text transform="translate(71.9463, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+hat</tspan>
+</text>
+<path transform="translate(96.6291, 5.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(96.6291, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(96.6291, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+das</tspan>
+</text>
+<path transform="translate(96.6291, 34.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(70.5247, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+hat</tspan>
+</text>
+<rect transform="translate(105.2482, 18.7262)" x="-0.0695" y="-0.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(105.3177, 18.2704) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<text transform="translate(70.9963, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+un</tspan>
+</text>
+<path transform="translate(102.4987, 21.7262) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<rect transform="translate(105.2482, 33.9154)" x="-0.0695" y="-1.8077" width="0.1390" height="2.1225" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(104.0425, 47.8717)" x="-0.0695" y="-1.8149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(100.3845, 18.7262)" x="-0.0695" y="-1.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(100.4540, 17.7704) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<path transform="translate(103.9730, 6.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(103.9730, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(103.9730, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Le</tspan>
+</text>
+<path transform="translate(103.9730, 21.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(103.9730, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(103.9730, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Le</tspan>
+</text>
+<path transform="translate(103.9730, 34.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(103.9730, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(103.9730, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Le</tspan>
+</text>
+<path transform="translate(103.9730, 45.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(103.9730, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ge</tspan>
+</text>
+<text transform="translate(103.9730, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Le</tspan>
+</text>
+<rect transform="translate(105.2482, 4.7699)" x="-0.0695" y="-1.1774" width="0.1390" height="2.9922" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(74.6210, 47.8717)" x="-0.0695" y="-0.8149" width="0.1390" height="3.0173" ry="0.0442" fill="currentColor"/>
+<path transform="translate(77.8705, 5.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(76.5622, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ser</tspan>
+</text>
+<text transform="translate(76.2604, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+uns</tspan>
+</text>
+<path transform="translate(77.8705, 21.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(77.8705, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ser</tspan>
+</text>
+<text transform="translate(77.8705, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+uns</tspan>
+</text>
+<path transform="translate(77.8705, 33.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(76.5622, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ser</tspan>
+</text>
+<text transform="translate(76.2604, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+uns</tspan>
+</text>
+<path transform="translate(77.8705, 47.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(77.8705, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ser</tspan>
+</text>
+<text transform="translate(77.8705, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+uns</tspan>
+</text>
+<rect transform="translate(79.1458, 4.7699)" x="-0.0695" y="-2.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(79.1458, 18.7262)" x="-0.0695" y="-0.0032" width="0.1390" height="2.8181" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(73.2215, 33.9154)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(72.0157, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="2.6124" ry="0.0442" fill="currentColor"/>
+<path transform="translate(74.5515, 21.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(74.5515, 46.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(75.8267, 18.7262)" x="-0.0695" y="-0.8229" width="0.1390" height="3.1378" ry="0.0442" fill="currentColor"/>
+<path transform="translate(86.3443, 5.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(83.7721, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Sünd</tspan>
+</text>
+<text transform="translate(82.8855, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+bracht</tspan>
+</text>
+<path transform="translate(86.3443, 20.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(83.7721, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Sünd</tspan>
+</text>
+<text transform="translate(82.8855, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+bracht</tspan>
+</text>
+<path transform="translate(86.3443, 34.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(83.7721, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Sünd</tspan>
+</text>
+<text transform="translate(82.8855, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+bracht</tspan>
+</text>
+<path transform="translate(86.3443, 48.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(86.3443, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Sünd</tspan>
+</text>
+<text transform="translate(86.3443, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+bracht</tspan>
+</text>
+<rect transform="translate(87.6196, 4.7699)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(88.1449, 20.2262) scale(0.0041, -0.0041)" d="M0 0c0 31 25 56 56 56s55 -25 55 -56s-24 -56 -55 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(87.6196, 18.7262)" x="-0.0695" y="-1.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(87.6196, 33.9154)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(76.3962, 21.7262) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<rect transform="translate(77.9400, 33.9154)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<path transform="translate(76.7028, 33.9154) scale(0.0041, -0.0041)" d="M29 39l-2 -64v-11c0 -22 2 -43 5 -65c44 38 91 80 91 138c0 33 -13 66 -42 66c-31 0 -51 -31 -52 -64zM-16 -139l-12 593c9 5 18 8 28 8s19 -3 28 -8l-7 -343c25 23 58 36 92 36c51 0 87 -49 87 -103c0 -79 -84 -117 -144 -169c-16 -14 -25 -41 -47 -41
+c-14 0 -25 13 -25 27z" fill="currentColor"/>
+<rect transform="translate(77.9400, 47.8717)" x="-0.0695" y="-0.3149" width="0.1390" height="3.1316" ry="0.0442" fill="currentColor"/>
+<path transform="translate(81.7203, 21.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(81.7203, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(82.9955, 18.7262)" x="-0.0695" y="-0.1833" width="0.1390" height="2.4982" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(81.7898, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="2.8116" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(76.2007, 53.6669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(71.9463, 50.6852)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.7000 -0.8227 2.7000 -0.4311 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(75.0715, 39.7106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(76.2007, 25.7543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(73.1520, 17.5397)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.7000 0.1773 2.7000 0.5689 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(75.0715, 10.5651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(56.4331, 34.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.0137 -0.0093 2.0137 0.3824 0.0442 0.1958 0.0442 -0.1958"/>
+<polygon transform="translate(56.4331, 35.7289)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.0137 -0.0093 2.0137 0.3824 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(57.0513, 56.4669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(56.6929, 53.6669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(49.3257, 49.8717)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="7.2022 0.6176 7.2022 1.0093 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(101.1089, 53.6669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(101.1089, 39.7106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(101.5745, 10.5651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(97.8348, 2.5834)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.5750 0.1773 2.5750 0.5689 0.0442 0.1958 0.0442 -0.1958"/>
+<polygon transform="translate(87.5501, 45.0583)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="5.0314 0.4311 5.0314 0.8227 0.0442 0.1958 0.0442 -0.1958"/>
+<polygon transform="translate(77.8705, 50.6852)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="3.9445 -0.0093 3.9445 0.3824 0.0442 0.1958 0.0442 -0.1958"/>
+<polygon transform="translate(79.0763, 18.7262)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="3.9445 -0.3824 3.9445 0.0093 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(37.1632, 56.4669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(32.8564, 45.6852)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.9838 -0.0093 2.9838 0.3824 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(36.4336, 42.5106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(31.6507, 36.1020)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.9838 -0.3824 2.9838 0.0093 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(36.4336, 13.3651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(32.8564, 1.9565)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.9838 -0.5689 2.9838 -0.1773 0.0442 0.1958 0.0442 -0.1958"/>
+<path transform="translate(27.3896, 18.7262)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.59053691596008 2.56626603667119C1.1757239351699 3.37917355649902 2.44575355367419 3.61495897201076 3.28372643268207 3.06626603667119C2.46916866893368 3.4888362861114 1.19913905042938 3.25305087059966 0.59053691596008 2.56626603667119z"/>
+<polygon transform="translate(18.1612, 35.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="3.5350 -0.0093 3.5350 0.3824 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(57.0513, 42.5106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(56.6929, 39.7106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(49.3257, 33.9154)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.68972318928769 -2.56626603667119C2.42892939100465 -3.91036403621716 8.08612444601707 -3.6910031631424 9.71602875372402 -2.21626603667119C8.08115413753534 -3.56282166855492 2.42395908252292 -3.78218254162969 0.68972318928769 -2.56626603667119z"/>
+<rect transform="translate(57.0513, 28.5543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(56.6929, 25.7543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(49.3257, 18.7262)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.672355600200909 -2.71626603667119C2.15978912740214 -4.00812605781358 6.52569332700364 -4.00812605781358 8.01312685420487 -2.71626603667119C6.52569332700364 -3.8798482361877 2.15978912740214 -3.8798482361877 0.672355600200909 -2.71626603667119z"/>
+<rect transform="translate(57.0513, 13.3651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(56.6929, 10.5651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(49.3257, 4.7699)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.706163943518227 -1.56626603667119C1.86812544856869 -2.69776884105349 4.3229478264645 -2.51208459292572 5.33330836167229 -1.21626603667119C4.31327245386651 -2.38417217489614 1.8584500759707 -2.56985642302391 0.706163943518227 -1.56626603667119z"/>
+<rect transform="translate(48.1796, 56.4669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(48.7068, 53.6669)" x="0.0000" y="-0.5590" width="0.5489" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(47.2636, 42.5106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(48.2067, 39.7106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(43.2205, 34.9154)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.5750 -0.0093 2.5750 0.3824 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(46.9395, 28.5543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(47.4111, 25.7543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(46.9395, 13.3651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(47.4111, 10.5651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(42.5438, 53.6669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(38.9594, 47.8717)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.367405834466112 -0.566266036671193C0.452527755595955 -1.81861989538472 1.80537850719302 -3.07442712988978 3.0605953511881 -3.06626603667119C1.89264994133165 -2.98041172527719 0.539799189734592 -1.72460449077213 0.367405834466112 -0.566266036671193z"/>
+<rect transform="translate(41.7658, 39.7106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(41.0411, 25.7543)" x="0.0000" y="-0.5590" width="0.5181" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(41.0411, 10.5651)" x="0.0000" y="-0.5590" width="0.5181" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(110.4094, 33.9154)" x="-0.0695" y="-1.3780" width="0.1390" height="2.1929" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(110.4094, 47.8717)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(111.3644, 21.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(111.3644, 35.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(112.6397, 18.7262)" x="-0.0695" y="-0.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(112.7091, 18.2704) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<rect transform="translate(112.6397, 33.9154)" x="-0.0695" y="-1.1923" width="0.1390" height="3.0072" ry="0.0442" fill="currentColor"/>
+<path transform="translate(114.0507, 7.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(114.7231, 2.4347) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(111.9124, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben,</tspan>
+</text>
+<text transform="translate(111.9124, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben.</tspan>
+</text>
+<path transform="translate(106.6540, 7.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(106.6540, 21.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(106.6540, 35.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(107.9292, 4.7699)" x="-0.0695" y="-0.8226" width="0.1390" height="3.1375" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(107.9292, 18.7262)" x="-0.0695" y="-1.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(107.9292, 33.9154)" x="-0.0695" y="-1.5845" width="0.1390" height="2.8993" ry="0.0442" fill="currentColor"/>
+<path transform="translate(109.1342, 6.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(109.1342, 34.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(109.1342, 49.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(110.4094, 4.7699)" x="-0.0695" y="-1.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(109.1029, 56.4669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(109.2161, 53.6669)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(103.9730, 47.8717)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.916322654169903 -3.06626603667119C2.69191909433438 -3.30000530819133 5.63044564722273 -1.30317945419804 6.06691849333204 0.433733963328807C5.5583476256231 -1.19708009132293 2.61982107273475 -3.19390594531623 0.916322654169903 -3.06626603667119z"/>
+<rect transform="translate(109.1029, 42.5106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(109.2161, 39.7106)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<polygon transform="translate(105.1788, 32.1020)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="7.4862 0.4311 7.4862 0.8227 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(109.1029, 28.5543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(109.2161, 25.7543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(103.9730, 18.7262)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.672355600200902 4.06626603667119C2.16621831868822 5.3622208960609 6.56990669048221 5.3622208960609 8.06376940896953 4.06626603667119C6.56990669048221 5.23394307443501 2.16621831868822 5.23394307443501 0.672355600200902 4.06626603667119z"/>
+<rect transform="translate(109.1029, 13.3651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<rect transform="translate(109.2161, 10.5651)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(103.9730, 4.7699)" stroke-width="0.0855" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.672355600200902 3.06626603667119C1.84794321383352 4.13887518935247 4.65794291959322 4.13887518935247 5.83353053322584 3.06626603667119C4.65794291959322 4.01059736772658 1.84794321383352 4.01059736772658 0.672355600200902 3.06626603667119z"/>
+<polygon transform="translate(105.1788, 3.5834)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0884" fill="currentColor" stroke="currentColor" points="2.7757 0.1773 2.7757 0.5689 0.0442 0.1958 0.0442 -0.1958"/>
+<rect transform="translate(102.3490, 25.7543)" x="0.0000" y="-0.5590" width="0.6600" height="0.1390" ry="0.0428" fill="currentColor"/>
+<path transform="translate(114.0507, 22.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(114.7231, 16.3910) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(111.9124, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben,</tspan>
+</text>
+<text transform="translate(111.9124, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben.</tspan>
+</text>
+<path transform="translate(114.0507, 35.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(114.7231, 31.5802) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(111.9124, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben,</tspan>
+</text>
+<text transform="translate(111.9124, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben.</tspan>
+</text>
+<path transform="translate(114.0507, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(114.7231, 45.5365) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(111.9124, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben,</tspan>
+</text>
+<text transform="translate(111.9124, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ben.</tspan>
+</text>
+<rect transform="translate(115.3260, 4.7699)" x="-0.0695" y="-1.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(115.3260, 18.7262)" x="-0.0695" y="-0.0000" width="0.1390" height="3.8149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(115.3260, 33.9154)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(114.1202, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<text transform="translate(31.6507, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+in</tspan>
+</text>
+<text transform="translate(31.6507, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+wie</tspan>
+</text>
+<rect transform="translate(32.9259, 4.7699)" x="-0.0695" y="-2.8220" width="0.1390" height="3.1369" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(31.7201, 33.9154)" x="-0.0695" y="-0.3149" width="0.1390" height="2.4971" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(32.9259, 47.8717)" x="-0.0695" y="-2.1823" width="0.1390" height="2.4971" ry="0.0442" fill="currentColor"/>
+<path transform="translate(34.5396, 4.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(34.5396, 19.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(34.0424, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+in</tspan>
+</text>
+<text transform="translate(33.0238, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+wie</tspan>
+</text>
+<path transform="translate(34.5396, 32.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(34.5396, 48.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(35.8149, 4.7699)" x="-0.0695" y="-3.1780" width="0.1390" height="2.9929" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(27.4590, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<path transform="translate(30.0828, 20.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(31.3580, 18.7262)" x="-0.0695" y="-1.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(31.6507, 5.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(31.6507, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+in</tspan>
+</text>
+<text transform="translate(31.6507, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+wie</tspan>
+</text>
+<path transform="translate(31.6507, 33.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(31.6507, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+in</tspan>
+</text>
+<text transform="translate(31.6507, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+wie</tspan>
+</text>
+<path transform="translate(31.6507, 48.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(38.9594, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<rect transform="translate(39.0289, 4.7699)" x="-0.0695" y="-0.3149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(40.2347, 18.7262)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(39.0289, 33.9154)" x="-0.0695" y="-1.3149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(40.2347, 47.8717)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(40.3041, 45.9159) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<path transform="translate(41.6526, 45.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(41.7221, 47.8717)" x="-0.0695" y="-1.8149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(43.2205, 3.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(41.6292, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+des</tspan>
+</text>
+<text transform="translate(42.5724, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+er</tspan>
+</text>
+<path transform="translate(43.2205, 18.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(41.6292, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+des</tspan>
+</text>
+<rect transform="translate(35.8149, 18.7262)" x="-0.0695" y="-2.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(35.8843, 16.2704) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<path transform="translate(33.0653, 19.7262) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<rect transform="translate(34.6091, 33.9154)" x="-0.0695" y="-0.8149" width="0.1390" height="2.8192" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(35.8149, 47.8717)" x="-0.0695" y="-2.0043" width="0.1390" height="2.8192" ry="0.0442" fill="currentColor"/>
+<path transform="translate(38.9594, 4.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(38.2925, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+To</tspan>
+</text>
+<text transform="translate(37.5002, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<path transform="translate(38.9594, 19.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(38.2925, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+To</tspan>
+</text>
+<text transform="translate(37.5002, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<path transform="translate(38.9594, 32.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(38.2925, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+To</tspan>
+</text>
+<text transform="translate(37.5002, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<path transform="translate(38.9594, 49.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(38.9594, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+To</tspan>
+</text>
+<path transform="translate(14.4319, 4.7699) scale(0.0041, -0.0041)" d="M358 29c-49 0 -74 41 -74 73c0 38 27 76 71 76c4 0 7 0 11 -1c-27 36 -69 59 -116 59c-106 0 -113 -74 -113 -188c0 -15 1 -31 1 -48s-1 -33 -1 -48c0 -114 7 -188 113 -188c79 0 136 70 155 150c2 7 7 10 13 10c7 0 14 -5 14 -13c0 -95 -105 -175 -182 -175
+c-68 0 -137 20 -184 70c-49 51 -66 123 -66 194s17 143 66 194c47 50 116 70 184 70c86 0 158 -66 173 -152c1 -4 1 -9 1 -13c0 -39 -30 -70 -66 -70z" fill="currentColor"/>
+<text transform="translate(15.0797, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Christ</tspan>
+</text>
+<text transform="translate(16.7020, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<path transform="translate(18.1612, 20.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(10.2319, 19.7262) scale(0.0041, -0.0041)" d="M378 263c4 0 7 1 11 1c156 0 257 -129 257 -262c0 -76 -34 -154 -108 -210c-22 -17 -46 -29 -72 -37c3 -34 4 -68 4 -102c0 -20 0 -40 -1 -60c-7 -121 -90 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63c96 0 156 91 162 190c1 19 2 37 2 56c0 30 -2 60 -4 90c-29 -5 -58 -8 -88 -8c-188 0 -333 173 -333 375c0 177 130 307 246 442c-20 62 -38 125 -46 190c-6 52 -7 104 -7 157c0 115 55 223 148 290c3 2 7 3 11 3s8 -1 11 -4
+c71 -83 134 -244 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206zM462 -202c67 24 111 94 111 162c0 89 -65 178 -170 190c24 -115 46 -230 59 -352zM75 26c0 -134 129 -245 263 -245c28 0 55 2 81 6c-14 126 -36 244 -61 363c-79 -8 -124 -61 -124 -119
+c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16c0 -12 -10 -23 -22 -23c-3 0 -6 1 -9 2c-81 43 -118 116 -118 186c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -73 20 -132 38 -191
+c79 97 144 199 144 324c0 53 -4 76 -20 124z" fill="currentColor"/>
+<path transform="translate(14.4319, 18.7262) scale(0.0041, -0.0041)" d="M358 29c-49 0 -74 41 -74 73c0 38 27 76 71 76c4 0 7 0 11 -1c-27 36 -69 59 -116 59c-106 0 -113 -74 -113 -188c0 -15 1 -31 1 -48s-1 -33 -1 -48c0 -114 7 -188 113 -188c79 0 136 70 155 150c2 7 7 10 13 10c7 0 14 -5 14 -13c0 -95 -105 -175 -182 -175
+c-68 0 -137 20 -184 70c-49 51 -66 123 -66 194s17 143 66 194c47 50 116 70 184 70c86 0 158 -66 173 -152c1 -4 1 -9 1 -13c0 -39 -30 -70 -66 -70z" fill="currentColor"/>
+<text transform="translate(15.0797, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Christ</tspan>
+</text>
+<text transform="translate(16.7020, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<path transform="translate(18.1612, 32.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(10.2319, 34.9154) scale(0.0041, -0.0041)" d="M378 263c4 0 7 1 11 1c156 0 257 -129 257 -262c0 -76 -34 -154 -108 -210c-22 -17 -46 -29 -72 -37c3 -34 4 -68 4 -102c0 -20 0 -40 -1 -60c-7 -121 -90 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63c96 0 156 91 162 190c1 19 2 37 2 56c0 30 -2 60 -4 90c-29 -5 -58 -8 -88 -8c-188 0 -333 173 -333 375c0 177 130 307 246 442c-20 62 -38 125 -46 190c-6 52 -7 104 -7 157c0 115 55 223 148 290c3 2 7 3 11 3s8 -1 11 -4
+c71 -83 134 -244 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206zM462 -202c67 24 111 94 111 162c0 89 -65 178 -170 190c24 -115 46 -230 59 -352zM75 26c0 -134 129 -245 263 -245c28 0 55 2 81 6c-14 126 -36 244 -61 363c-79 -8 -124 -61 -124 -119
+c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16c0 -12 -10 -23 -22 -23c-3 0 -6 1 -9 2c-81 43 -118 116 -118 186c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -73 20 -132 38 -191
+c79 97 144 199 144 324c0 53 -4 76 -20 124z" fill="currentColor"/>
+<text transform="translate(10.8466, 38.3848)" font-family="Century Schoolbook L" font-weight="bold" font-style="italic" font-size="1.3859" text-anchor="start" fill="currentColor">
+<tspan>
+8</tspan>
+</text>
+<path transform="translate(14.4319, 33.9154) scale(0.0041, -0.0041)" d="M358 29c-49 0 -74 41 -74 73c0 38 27 76 71 76c4 0 7 0 11 -1c-27 36 -69 59 -116 59c-106 0 -113 -74 -113 -188c0 -15 1 -31 1 -48s-1 -33 -1 -48c0 -114 7 -188 113 -188c79 0 136 70 155 150c2 7 7 10 13 10c7 0 14 -5 14 -13c0 -95 -105 -175 -182 -175
+c-68 0 -137 20 -184 70c-49 51 -66 123 -66 194s17 143 66 194c47 50 116 70 184 70c86 0 158 -66 173 -152c1 -4 1 -9 1 -13c0 -39 -30 -70 -66 -70z" fill="currentColor"/>
+<text transform="translate(18.1612, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Christ</tspan>
+</text>
+<text transform="translate(18.1612, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<path transform="translate(18.1612, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(10.2319, 46.8717) scale(0.0041, -0.0041)" d="M558 -125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM558 125c0 28 22 51 50 51s51 -23 51 -51s-23 -51 -51 -51s-50 23 -50 51zM231 264c172 0 294 -88 294 -251c0 -263 -262 -416 -515 -523c-3 -3 -7 -4 -10 -4c-7 0 -14 7 -14 14c0 3 1 7 4 10
+c201 118 410 265 410 492c0 119 -61 234 -169 234c-72 0 -124 -53 -148 -123c10 4 19 6 29 6c55 0 100 -45 100 -100c0 -58 -44 -106 -100 -106c-60 0 -112 47 -112 106c0 133 101 245 231 245z" fill="currentColor"/>
+<path transform="translate(14.4319, 47.8717) scale(0.0041, -0.0041)" d="M358 29c-49 0 -74 41 -74 73c0 38 27 76 71 76c4 0 7 0 11 -1c-27 36 -69 59 -116 59c-106 0 -113 -74 -113 -188c0 -15 1 -31 1 -48s-1 -33 -1 -48c0 -114 7 -188 113 -188c79 0 136 70 155 150c2 7 7 10 13 10c7 0 14 -5 14 -13c0 -95 -105 -175 -182 -175
+c-68 0 -137 20 -184 70c-49 51 -66 123 -66 194s17 143 66 194c47 50 116 70 184 70c86 0 158 -66 173 -152c1 -4 1 -9 1 -13c0 -39 -30 -70 -66 -70z" fill="currentColor"/>
+<text transform="translate(15.0797, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+Christ</tspan>
+</text>
+<text transform="translate(16.7020, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+der</tspan>
+</text>
+<rect transform="translate(19.4364, 4.7699)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(19.4364, 18.7262)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<text transform="translate(-1.6456, 5.3736)" font-family="Linux Libertine O" font-size="2.2487" text-anchor="start" fill="currentColor">
+<tspan>
+Soprano</tspan>
+</text>
+<text transform="translate(0.7878, 19.5751)" font-family="Linux Libertine O" font-size="2.2487" text-anchor="start" fill="currentColor">
+<tspan>
+Alto</tspan>
+</text>
+<text transform="translate(-0.0799, 34.7266)" font-family="Linux Libertine O" font-size="2.2487" text-anchor="start" fill="currentColor">
+<tspan>
+Tenor</tspan>
+</text>
+<text transform="translate(0.3540, 48.6829)" font-family="Linux Libertine O" font-size="2.2487" text-anchor="start" fill="currentColor">
+<tspan>
+Bass</tspan>
+</text>
+<path transform="translate(8.1108, 2.4865) scale(0.0041, -0.0041)" d="M448 332c10 0 17 -8 17 -17c0 -3 -1 -6 -3 -9c-96 -144 -210 -362 -381 -362h-81v85c0 15 12 27 27 27h54c157 0 265 136 353 268c3 5 9 8 14 8z" fill="currentColor"/>
+<path transform="translate(8.1108, 50.1551) scale(0.0041, -0.0041)" d="M465 -315c0 -9 -7 -17 -17 -17c-5 0 -11 3 -14 8c-88 132 -196 268 -353 268h-54c-15 0 -27 12 -27 27v85h81c171 0 285 -218 381 -362c2 -3 3 -6 3 -9z" fill="currentColor"/>
+<rect transform="translate(8.1108, 26.3208)" x="0.0000" y="-23.6493" width="0.4500" height="47.2987" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(9.3608, 26.3208)" x="0.0000" y="-23.6043" width="0.1710" height="47.2087" ry="0.0534" fill="currentColor"/>
+<path transform="translate(18.1612, 5.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(10.2319, 5.7699) scale(0.0041, -0.0041)" d="M378 263c4 0 7 1 11 1c156 0 257 -129 257 -262c0 -76 -34 -154 -108 -210c-22 -17 -46 -29 -72 -37c3 -34 4 -68 4 -102c0 -20 0 -40 -1 -60c-7 -121 -90 -228 -209 -228c-108 0 -196 87 -196 196c0 58 53 104 112 104c54 0 95 -48 95 -104c0 -52 -43 -95 -95 -95
+c-10 0 -20 2 -29 6c26 -38 68 -63 116 -63c96 0 156 91 162 190c1 19 2 37 2 56c0 30 -2 60 -4 90c-29 -5 -58 -8 -88 -8c-188 0 -333 173 -333 375c0 177 130 307 246 442c-20 62 -38 125 -46 190c-6 52 -7 104 -7 157c0 115 55 223 148 290c3 2 7 3 11 3s8 -1 11 -4
+c71 -83 134 -244 134 -357c0 -143 -85 -255 -178 -364c21 -68 40 -137 57 -206zM462 -202c67 24 111 94 111 162c0 89 -65 178 -170 190c24 -115 46 -230 59 -352zM75 26c0 -134 129 -245 263 -245c28 0 55 2 81 6c-14 126 -36 244 -61 363c-79 -8 -124 -61 -124 -119
+c0 -43 25 -89 80 -121c5 -5 7 -11 7 -16c0 -12 -10 -23 -22 -23c-3 0 -6 1 -9 2c-81 43 -118 116 -118 186c0 89 58 175 161 198c-14 58 -29 116 -46 173c-106 -122 -212 -244 -212 -404zM406 1042c-99 -47 -162 -148 -162 -257c0 -73 20 -132 38 -191
+c79 97 144 199 144 324c0 53 -4 76 -20 124z" fill="currentColor"/>
+<text transform="translate(26.1190, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+lag</tspan>
+</text>
+<text transform="translate(26.5340, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ist</tspan>
+</text>
+<path transform="translate(27.3896, 20.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(27.3896, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+lag</tspan>
+</text>
+<text transform="translate(27.3896, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ist</tspan>
+</text>
+<path transform="translate(27.3896, 33.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(26.1190, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+lag</tspan>
+</text>
+<text transform="translate(26.5340, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ist</tspan>
+</text>
+<path transform="translate(27.3896, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(26.1190, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+lag</tspan>
+</text>
+<text transform="translate(26.5340, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ist</tspan>
+</text>
+<rect transform="translate(28.6648, 4.7699)" x="-0.0695" y="-2.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(25.9153, 5.7699) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<rect transform="translate(28.6648, 18.7262)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(28.7343, 16.7704) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<rect transform="translate(27.4590, 33.9154)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(18.2307, 33.9154)" x="-0.0695" y="-0.8149" width="0.1390" height="2.8185" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(18.2307, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<path transform="translate(21.6014, 33.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(21.6709, 33.9154)" x="-0.0695" y="-0.3149" width="0.1390" height="2.4978" ry="0.0442" fill="currentColor"/>
+<path transform="translate(27.3896, 5.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(56.5025, 47.8717)" x="-0.0695" y="-0.3149" width="0.1390" height="3.1205" ry="0.0442" fill="currentColor"/>
+<path transform="translate(58.3520, 32.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(58.4215, 33.9154)" x="-0.0695" y="-0.8149" width="0.1390" height="2.8086" ry="0.0442" fill="currentColor"/>
+<path transform="translate(61.6710, 5.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(62.3434, 1.4882) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(59.9288, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<text transform="translate(59.9288, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<path transform="translate(61.6710, 20.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(62.3434, 16.3910) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(59.9288, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<text transform="translate(59.9288, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<path transform="translate(61.6710, 33.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(62.3434, 31.5802) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(59.9288, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<text transform="translate(59.9288, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<path transform="translate(61.6710, 49.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(62.3434, 45.5365) scale(0.0041, -0.0041)" d="M-69 48c0 38 31 69 69 69s69 -31 69 -69s-31 -68 -69 -68s-69 30 -69 68zM0 364c158 0 333 -176 333 -367c0 -10 -10 -17 -20 -17c-9 0 -19 6 -21 20c-26 147 -145 261 -292 261s-266 -114 -292 -261c-2 -14 -12 -20 -21 -20c-10 0 -20 7 -20 17c0 191 176 367 333 367z
+" fill="currentColor"/>
+<text transform="translate(59.9288, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<text transform="translate(59.9288, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+den</tspan>
+</text>
+<path transform="translate(53.9528, 4.7699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(53.9528, 47.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(54.0223, 4.7699)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(54.0223, 47.8717)" x="-0.0695" y="0.1851" width="0.1390" height="2.3421" ry="0.0442" fill="currentColor"/>
+<path transform="translate(56.4331, 19.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(56.4331, 32.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(56.4331, 47.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(57.7083, 18.7262)" x="-0.0695" y="-2.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(57.7778, 16.2704) scale(0.0041, -0.0041)" d="M0 0c0 -197 209 -335 209 -532c0 -71 -16 -141 -42 -207c-5 -8 -12 -12 -20 -12c-14 0 -27 11 -24 28c26 60 42 125 42 191c0 103 -94 207 -165 282h-18v250h18z" fill="currentColor"/>
+<path transform="translate(54.9588, 19.7262) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<rect transform="translate(56.5025, 33.9154)" x="-0.0695" y="-1.3149" width="0.1390" height="3.1346" ry="0.0442" fill="currentColor"/>
+<path transform="translate(66.9690, 48.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(65.8493, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+für</tspan>
+</text>
+<text transform="translate(65.2079, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+und</tspan>
+</text>
+<rect transform="translate(68.2442, 4.7699)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(68.2442, 18.7262)" x="-0.0695" y="-1.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(68.2442, 33.9154)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(68.2442, 47.8717)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(65.4947, 48.3717) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<path transform="translate(71.9463, 6.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(70.9963, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+un</tspan>
+</text>
+<text transform="translate(70.5247, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+hat</tspan>
+</text>
+<path transform="translate(71.9463, 20.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(71.9463, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+un</tspan>
+</text>
+<text transform="translate(71.9463, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+hat</tspan>
+</text>
+<path transform="translate(71.9463, 34.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(62.9462, 4.7699)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(62.9462, 18.7262)" x="-0.0695" y="-1.5000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(61.7405, 33.9154)" x="-0.0695" y="-0.3149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(60.1967, 33.4154) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<rect transform="translate(62.9462, 47.8717)" x="-0.0695" y="-2.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(66.9690, 5.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(65.8493, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+für</tspan>
+</text>
+<text transform="translate(65.2079, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+und</tspan>
+</text>
+<path transform="translate(66.9690, 20.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(65.8493, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+für</tspan>
+</text>
+<text transform="translate(65.2079, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+und</tspan>
+</text>
+<path transform="translate(66.9690, 34.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(65.8493, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+für</tspan>
+</text>
+<text transform="translate(65.2079, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+und</tspan>
+</text>
+<path transform="translate(45.8397, 49.8275) scale(0.0041, -0.0041)" d="M0 0h-18v250h18c97 59 225 148 225 259c0 57 -16 111 -41 162c-3 17 11 29 25 29c8 0 15 -4 20 -12c25 -56 40 -117 40 -179c0 -204 -269 -305 -269 -509z" fill="currentColor"/>
+<path transform="translate(44.2264, 46.3717) scale(0.0041, -0.0041)" d="M217 -311c0 -11 -8 -19 -19 -19s-20 8 -20 19v142l-81 -30v-156c0 -11 -9 -20 -20 -20s-19 9 -19 20v142l-28 -11c-3 -1 -5 -1 -8 -1c-12 0 -22 10 -22 23v57c0 9 6 18 15 21l43 16v157l-28 -10c-3 -1 -5 -1 -8 -1c-12 0 -22 9 -22 22v57c0 9 6 18 15 21l43 16v157
+c0 11 8 19 19 19s20 -8 20 -19v-142l81 30v156c0 11 9 20 20 20s19 -9 19 -20v-142l28 11c3 1 5 1 8 1c12 0 22 -10 22 -23v-57c0 -9 -6 -18 -15 -21l-43 -16v-157l28 10c3 1 5 1 8 1c12 0 22 -9 22 -22v-57c0 -9 -6 -18 -15 -21l-43 -16v-157zM97 64v-158l81 30v158z" fill="currentColor"/>
+<path transform="translate(49.3257, 4.2699) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(49.3257, 10.5651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ban</tspan>
+</text>
+<text transform="translate(49.3257, 13.3651)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+stan</tspan>
+</text>
+<path transform="translate(49.3257, 18.7262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(49.3257, 25.7543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ban</tspan>
+</text>
+<text transform="translate(49.3257, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+stan</tspan>
+</text>
+<path transform="translate(49.3257, 32.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(49.3257, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ban</tspan>
+</text>
+<text transform="translate(49.3257, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+stan</tspan>
+</text>
+<path transform="translate(49.3257, 45.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(49.3257, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+ban</tspan>
+</text>
+<text transform="translate(49.3257, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+stan</tspan>
+</text>
+<rect transform="translate(49.3952, 4.7699)" x="-0.0695" y="-0.3149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(49.3952, 18.7262)" x="-0.0695" y="0.1851" width="0.1390" height="3.1899" ry="0.0442" fill="currentColor"/>
+<text transform="translate(42.5724, 28.5543)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+er</tspan>
+</text>
+<path transform="translate(43.2205, 31.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(43.2205, 39.7106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+des</tspan>
+</text>
+<text transform="translate(43.2205, 42.5106)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+er</tspan>
+</text>
+<rect transform="translate(43.2900, 4.7699)" x="-0.0695" y="-0.8149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(43.2900, 18.7262)" x="-0.0695" y="0.1851" width="0.1390" height="3.1482" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(43.2900, 33.9154)" x="-0.0695" y="-1.8149" width="0.1390" height="2.8198" ry="0.0442" fill="currentColor"/>
+<path transform="translate(45.7008, 32.4154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(45.7008, 46.3717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<text transform="translate(44.1095, 53.6669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+des</tspan>
+</text>
+<text transform="translate(45.0526, 56.4669)" font-family="Linux Libertine O" font-size="2.5244" text-anchor="start" fill="currentColor">
+<tspan>
+er</tspan>
+</text>
+<rect transform="translate(45.7702, 33.9154)" x="-0.0695" y="-1.3149" width="0.1390" height="2.4965" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(45.7702, 47.8717)" x="-0.0695" y="-1.3149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(49.3952, 47.8717)" x="-0.0695" y="-1.8149" width="0.1390" height="3.8227" ry="0.0442" fill="currentColor"/>
+<path transform="translate(51.7226, 19.2262) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(51.7226, 31.9154) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<path transform="translate(51.7226, 46.8717) scale(0.0041, -0.0041)" d="M217 139c57 0 112 -31 112 -94c0 -72 -55 -121 -102 -149c-35 -21 -74 -35 -115 -35c-57 0 -112 31 -112 94c0 72 55 121 102 149c35 21 74 35 115 35z" fill="currentColor"/>
+<rect transform="translate(52.9978, 18.7262)" x="-0.0695" y="-3.0000" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(51.7921, 33.9154)" x="-0.0695" y="-1.8149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<rect transform="translate(51.7921, 47.8717)" x="-0.0695" y="-0.8149" width="0.1390" height="3.0917" ry="0.0442" fill="currentColor"/>
+<path transform="translate(49.4646, 22.0570) scale(0.0041, -0.0041)" d="M0 0h-18v250h18c97 59 225 148 225 259c0 57 -16 111 -41 162c-3 17 11 29 25 29c8 0 15 -4 20 -12c25 -56 40 -117 40 -179c0 -204 -269 -305 -269 -509z" fill="currentColor"/>
+<rect transform="translate(49.3952, 33.9154)" x="-0.0695" y="-1.3149" width="0.1390" height="3.3149" ry="0.0442" fill="currentColor"/>
+<path transform="translate(49.4646, 35.8712) scale(0.0041, -0.0041)" d="M0 0h-18v250h18c97 59 225 148 225 259c0 57 -16 111 -41 162c-3 17 11 29 25 29c8 0 15 -4 20 -12c25 -56 40 -117 40 -179c0 -204 -269 -305 -269 -509z" fill="currentColor"/>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Duetto III</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 804</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft Edition / Ernst Naumann 1890</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>Bach-Duet3.ly</mp:lyFile>
+    <mp:midFile>Bach-Duet3.mid</mp:midFile>
+    <mp:psFileA4>Bach-Duet3-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>Bach-Duet3-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>Bach-Duet3-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>Bach-Duet3-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>Bach-Duet3-preview.png</mp:pngFile>
+    <mp:pngHeight>83</mp:pngHeight>
+    <mp:pngWidth>503</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/11/21-1597</mp:id>
+    <mp:maintainer>H. Gillis</mp:maintainer>
+    <mp:maintainerEmail>canoeguy2005 - yahoo.ca</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.11.63</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

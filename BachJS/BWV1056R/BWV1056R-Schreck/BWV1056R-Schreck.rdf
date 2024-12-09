@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Concerto in G minor</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1056R</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin, Viola, Basso Continuo, String Ensemble</mp:for>
+    <mp:date>1730–1738?</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Schreck G., ca. 1904 (reconstruction); Leipzig: C.F. Peters, n.d. (ca. 1904), plate 8982; IMSLP #363999</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>BWV1056R-Schreck-lys.zip</mp:lyFile>
+    <mp:midFile>BWV1056R-Schreck-mids.zip</mp:midFile>
+    <mp:psFileA4>BWV1056R-Schreck-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>BWV1056R-Schreck-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>BWV1056R-Schreck-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>BWV1056R-Schreck-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>BWV1056R-Schreck-preview.png</mp:pngFile>
+    <mp:pngHeight>256</mp:pngHeight>
+    <mp:pngWidth>554</mp:pngWidth>
+
+    <mp:id>Mutopia-2016/05/11-2116</mp:id>
+    <mp:maintainer>Júda Ronén</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb>http://me.digitalwords.net/</mp:maintainerWeb>
+    <mp:moreInfo>Only the the second movement has been typeset by now. Feel free to complete the other movements, but please &lt;a href="http://me.digitalwords.net/"&gt;contact&lt;/a&gt; me before for coordination.</mp:moreInfo>
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

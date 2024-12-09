@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Das alte Jahr vergangen ist</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 614</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>.S. Bach, 2e cahier de chorals variés, n° 16, Révision par Gabriel Fauré, Paris, 1920, A. Durand et fils. et Bach-Gesellschaft Edition, band 25, 1878</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 2.5</mp:licence>
+
+    <mp:lyFile>Das_alte_Jahr.ly</mp:lyFile>
+    <mp:midFile>Das_alte_Jahr.mid</mp:midFile>
+    <mp:psFileA4>Das_alte_Jahr-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>Das_alte_Jahr-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>Das_alte_Jahr-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>Das_alte_Jahr-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>Das_alte_Jahr-preview.png</mp:pngFile>
+    <mp:pngHeight>158</mp:pngHeight>
+    <mp:pngWidth>554</mp:pngWidth>
+
+    <mp:id>Mutopia-2006/10/12-849</mp:id>
+    <mp:maintainer>Gérard Gréco</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.8.7</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

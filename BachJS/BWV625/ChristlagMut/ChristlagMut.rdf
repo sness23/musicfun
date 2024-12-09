@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Christ lag in Todesbanden</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 625</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>fichier Mutopia de Gérard Gréco</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>ChristlagMut.ly</mp:lyFile>
+    <mp:midFile>ChristlagMut.mid</mp:midFile>
+    <mp:psFileA4>ChristlagMut-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>ChristlagMut-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>ChristlagMut-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>ChristlagMut-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>ChristlagMut-preview.png</mp:pngFile>
+    <mp:pngHeight>166</mp:pngHeight>
+    <mp:pngWidth>776</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/03/11-999</mp:id>
+    <mp:maintainer>Pierre Pouillon</mp:maintainer>
+    <mp:maintainerEmail>pierre(at)ssji.net</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.29</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Jan 04  2017 .
+drwxr-xr-x    3 12501    100             3 Apr 03  2015 ..
+-rw-r--r--    1 12501    100        187106 Apr 03  2015 Bach_ChristLag-a4.pdf
+-rw-r--r--    1 12501    100       1141269 Apr 03  2015 Bach_ChristLag-a4.ps.gz
+-rw-r--r--    1 12501    100        188813 Apr 03  2015 Bach_ChristLag-let.pdf
+-rw-r--r--    1 12501    100       1141680 Apr 03  2015 Bach_ChristLag-let.ps.gz
+-rw-r--r--    1 12501    100         90375 Jan 04  2017 Bach_ChristLag-preview.svg
+-rw-r--r--    1 12501    100           481 Apr 03  2015 Bach_ChristLag.log
+-rw-r--r--    1 12501    100          4673 Apr 03  2015 Bach_ChristLag.ly
+-rw-r--r--    1 12501    100          3199 Apr 03  2015 Bach_ChristLag.mid
+-rw-r--r--    1 12501    100          1356 Jan 04  2017 Bach_ChristLag.rdf
+lrwxrwxrwx    1 523      523            44 Apr 03  2015 Makefile -> ../../../../UsefulScripts/Makefile.single_ly

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Concerto in D minor for two violins and strings</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1043</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin Duet and String Orchestra: Two Violins, Viola, 'Cello</mp:for>
+    <mp:date>1717-23</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach Gesellschaft zu Leipzig, 1874</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>concerto-in-d-minor-lys.zip</mp:lyFile>
+    <mp:midFile>concerto-in-d-minor-mids.zip</mp:midFile>
+    <mp:psFileA4>concerto-in-d-minor-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>concerto-in-d-minor-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>concerto-in-d-minor-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>concerto-in-d-minor-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>concerto-in-d-minor-preview.png</mp:pngFile>
+    <mp:pngHeight>872</mp:pngHeight>
+    <mp:pngWidth>539</mp:pngWidth>
+
+    <mp:id>Mutopia-2015/09/02-3</mp:id>
+    <mp:maintainer>David Chan</mp:maintainer>
+    <mp:maintainerEmail>david@sheetmusic.org.uk</mp:maintainerEmail>
+    <mp:maintainerWeb>http://www.sheetmusic.org.uk/</mp:maintainerWeb>
+    <mp:moreInfo>The maintainer has been unable to locate an out-of-copyright piano accompaniment.  If anyone would be willing to submit such an arrangement to Mutopia, the world will be very grateful.</mp:moreInfo>
+    <mp:lilypondVersion>2.16.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

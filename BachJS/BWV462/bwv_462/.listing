@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Jan 04  2017 .
+drwxr-xr-x    3 12501    100             3 Apr 16  2015 ..
+lrwxrwxrwx    1 523      523            44 Apr 16  2015 Makefile -> ../../../../UsefulScripts/Makefile.single_ly
+-rw-r--r--    1 12501    100        177786 Feb 17  2016 bwv_462-a4.pdf
+-rw-r--r--    1 12501    100       1223554 Feb 17  2016 bwv_462-a4.ps.gz
+-rw-r--r--    1 12501    100        177803 Feb 17  2016 bwv_462-let.pdf
+-rw-r--r--    1 12501    100       1223568 Feb 17  2016 bwv_462-let.ps.gz
+-rw-r--r--    1 12501    100         39838 Jan 04  2017 bwv_462-preview.svg
+-rw-r--r--    1 12501    100           632 Feb 17  2016 bwv_462.log
+-rw-r--r--    1 12501    100          6245 Feb 17  2016 bwv_462.ly
+-rw-r--r--    1 12501    100          2466 Feb 17  2016 bwv_462.mid
+-rw-r--r--    1 12501    100          1261 Jan 04  2017 bwv_462.rdf

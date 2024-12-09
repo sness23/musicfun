@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Sonata in B minor for flute and harpsichord</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1030</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Flute and Harpsichord/Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Autograph</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv1030-lys.zip</mp:lyFile>
+    <mp:midFile>bwv1030-mids.zip</mp:midFile>
+    <mp:psFileA4>bwv1030-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>bwv1030-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>bwv1030-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>bwv1030-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>bwv1030-preview.png</mp:pngFile>
+    <mp:pngHeight>423</mp:pngHeight>
+    <mp:pngWidth>539</mp:pngWidth>
+
+    <mp:id>Mutopia-2005/12/28-645</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.6.4</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

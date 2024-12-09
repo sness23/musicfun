@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Ach, was soll ich Sünder machen</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 259</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Johann Philipp Kirnberger, Carl Philipp Emanuel Bach</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+
+    <mp:lyFile>bwv-259.ly</mp:lyFile>
+    <mp:midFile>bwv-259.mid</mp:midFile>
+    <mp:psFileA4>bwv-259-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv-259-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv-259-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv-259-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv-259-preview.svg</mp:pngFile>
+    <mp:pngHeight>0</mp:pngHeight>
+    <mp:pngWidth>0</mp:pngWidth>
+
+    <mp:id>Mutopia-2016/07/12-2126</mp:id>
+    <mp:maintainer>Tomasz Tokarski</mp:maintainer>
+    <mp:maintainerEmail>tomasz@tomasztokarski.com</mp:maintainerEmail>
+    <mp:maintainerWeb>http://tomasztokarski.com</mp:maintainerWeb>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

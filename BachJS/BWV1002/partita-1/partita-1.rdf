@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Partita I for Solo Violin</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1002</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Violin, Viola, 'Cello</mp:for>
+    <mp:date>1720</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Reproduction of Autograph</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>partita-1-lys.zip</mp:lyFile>
+    <mp:midFile>partita-1-mids.zip</mp:midFile>
+    <mp:psFileA4>partita-1-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>partita-1-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>partita-1-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>partita-1-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>partita-1-preview.png</mp:pngFile>
+    <mp:pngHeight>484</mp:pngHeight>
+    <mp:pngWidth>511</mp:pngWidth>
+
+    <mp:id>Mutopia-2013/01/12-180</mp:id>
+    <mp:maintainer>Erik Sandberg</mp:maintainer>
+    <mp:maintainerEmail>ersa9195@student.uu.se</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.16.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

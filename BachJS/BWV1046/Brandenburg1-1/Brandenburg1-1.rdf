@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Brandenburg Concerto No. 1 (First Movement - Allegro)</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 1046</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Ensemble: Corno, Oboe, Fagotto, Violino piccolo, Violino, Viola, Violoncello, Violone grosso, Continuo</mp:for>
+    <mp:date>1717-1723?</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Rust, 1871. Bach Gesellschaft Volume 19</mp:source>
+    <mp:licence>Creative Commons Attribution 3.0</mp:licence>
+
+    <mp:lyFile>Brandenburg1-1-lys.zip</mp:lyFile>
+    <mp:midFile>Brandenburg1-1-mids.zip</mp:midFile>
+    <mp:psFileA4>Brandenburg1-1-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>Brandenburg1-1-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>Brandenburg1-1-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>Brandenburg1-1-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>Brandenburg1-1-preview.png</mp:pngFile>
+    <mp:pngHeight>342</mp:pngHeight>
+    <mp:pngWidth>551</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/10/09-1136</mp:id>
+    <mp:maintainer>Ben Stewart</mp:maintainer>
+    <mp:maintainerEmail>benjamin.james.stewart@gmail.com</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

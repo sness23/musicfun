@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Komm Gott Schöpfer, Heiliger Geist</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 631a</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date>1714</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Autograph</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>bwv631a.ly</mp:lyFile>
+    <mp:midFile>bwv631a.mid</mp:midFile>
+    <mp:psFileA4>bwv631a-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv631a-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv631a-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv631a-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv631a-preview.png</mp:pngFile>
+    <mp:pngHeight>137</mp:pngHeight>
+    <mp:pngWidth>785</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/11/25-1164</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.33</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Aus meines Herzens Grunde (Chorale 1)</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 269</mp:opus>
+    <mp:lyricist>Vierstimmige Choräle</mp:lyricist>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date>1784-1787</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Editions de J.P Kimberger - C.P.E Bach</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>bwv_269.ly</mp:lyFile>
+    <mp:midFile>bwv_269.mid</mp:midFile>
+    <mp:psFileA4>bwv_269-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv_269-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv_269-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv_269-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv_269-preview.png</mp:pngFile>
+    <mp:pngHeight>109</mp:pngHeight>
+    <mp:pngWidth>503</mp:pngWidth>
+
+    <mp:id>Mutopia-2013/03/22-378</mp:id>
+    <mp:maintainer>Laurent Ducos</mp:maintainer>
+    <mp:maintainerEmail>laurentdany@free.fr</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.16.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

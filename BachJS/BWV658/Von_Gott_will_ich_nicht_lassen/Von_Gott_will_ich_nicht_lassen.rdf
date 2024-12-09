@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Von Gott will ich nicht lassen</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 658</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft Edition, OrgelWerke 1893</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 2.5</mp:licence>
+
+    <mp:lyFile>Von_Gott_will_ich_nicht_lassen.ly</mp:lyFile>
+    <mp:midFile>Von_Gott_will_ich_nicht_lassen.mid</mp:midFile>
+    <mp:psFileA4>Von_Gott_will_ich_nicht_lassen-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>Von_Gott_will_ich_nicht_lassen-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>Von_Gott_will_ich_nicht_lassen-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>Von_Gott_will_ich_nicht_lassen-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>Von_Gott_will_ich_nicht_lassen-preview.png</mp:pngFile>
+    <mp:pngHeight>156</mp:pngHeight>
+    <mp:pngWidth>552</mp:pngWidth>
+
+    <mp:id>Mutopia-2006/05/07-755</mp:id>
+    <mp:maintainer>Gérard Gréco</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.8.1</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

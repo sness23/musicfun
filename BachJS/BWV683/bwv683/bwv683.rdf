@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Vater unser im Himmelreich</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 683</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date>1739</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Edition Peters 8660</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+
+    <mp:lyFile>bwv683.ly</mp:lyFile>
+    <mp:midFile>bwv683.mid</mp:midFile>
+    <mp:psFileA4>bwv683-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv683-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv683-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv683-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv683-preview.png</mp:pngFile>
+    <mp:pngHeight>105</mp:pngHeight>
+    <mp:pngWidth>786</mp:pngWidth>
+
+    <mp:id>Mutopia-2016/02/17-1626</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.19.32</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

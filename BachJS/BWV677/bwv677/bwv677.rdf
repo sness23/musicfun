@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Allein Gott in der Höh' sei Ehr'</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 677</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Edition Peters 8661</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 3.0</mp:licence>
+
+    <mp:lyFile>bwv677.ly</mp:lyFile>
+    <mp:midFile>bwv677.mid</mp:midFile>
+    <mp:psFileA4>bwv677-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv677-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv677-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv677-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv677-preview.png</mp:pngFile>
+    <mp:pngHeight>108</mp:pngHeight>
+    <mp:pngWidth>785</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/03/19-1372</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail>urs@ursmetzger.de</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.11.42</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

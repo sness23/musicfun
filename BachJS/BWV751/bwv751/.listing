@@ -1,0 +1,12 @@
+drwxr-xr-x    2 12501    100            12 Dec 23  2016 .
+drwxr-xr-x    3 12501    100             3 Dec 04  2006 ..
+lrwxrwxrwx    1 523      523            54 Dec 23  2016 Makefile -> ../../../../UsefulScripts/Makefile.single_ly_landscape
+-rw-r--r--    1 12501    100        186924 Dec 23  2016 bwv751-a4.pdf
+-rw-r--r--    1 12501    100       1228242 Dec 23  2016 bwv751-a4.ps.gz
+-rw-r--r--    1 12501    100        189071 Dec 23  2016 bwv751-let.pdf
+-rw-r--r--    1 12501    100       1228957 Dec 23  2016 bwv751-let.ps.gz
+-rw-r--r--    1 12501    100         57121 Dec 23  2016 bwv751-preview.svg
+-rw-r--r--    1 12501    100           340 Dec 23  2016 bwv751.log
+-rw-r--r--    1 12501    100          5300 Dec 23  2016 bwv751.ly
+-rw-r--r--    1 12501    100          4902 Dec 23  2016 bwv751.mid
+-rw-r--r--    1 12501    100          1181 Dec 23  2016 bwv751.rdf

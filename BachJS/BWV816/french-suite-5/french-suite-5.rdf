@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>French Suite no. 5 in G major</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 816</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Harpsichord, Piano</mp:for>
+    <mp:date>1722</mp:date>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Unknown</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>french-suite-5-lys.zip</mp:lyFile>
+    <mp:midFile>french-suite-5-mids.zip</mp:midFile>
+    <mp:psFileA4>french-suite-5-a4-pss.zip</mp:psFileA4>
+    <mp:pdfFileA4>french-suite-5-a4-pdfs.zip</mp:pdfFileA4>
+    <mp:psFileLet>french-suite-5-let-pss.zip</mp:psFileLet>
+    <mp:pdfFileLet>french-suite-5-let-pdfs.zip</mp:pdfFileLet>
+    <mp:pngFile>french-suite-5-preview.png</mp:pngFile>
+    <mp:pngHeight>94</mp:pngHeight>
+    <mp:pngWidth>539</mp:pngWidth>
+
+    <mp:id>Mutopia-2008/06/17-99</mp:id>
+    <mp:maintainer>Joel Mayes</mp:maintainer>
+    <mp:maintainerEmail>joel_mayes@dingoblue.net.au</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.11.49</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

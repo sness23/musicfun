@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>O Mensch, bewein dein' Sünde gross</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 622</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Organ</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>University of Rochester - Fauré 1917</mp:source>
+    <mp:licence>Public Domain</mp:licence>
+
+    <mp:lyFile>OMenschMut.ly</mp:lyFile>
+    <mp:midFile>OMenschMut.mid</mp:midFile>
+    <mp:psFileA4>OMenschMut-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>OMenschMut-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>OMenschMut-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>OMenschMut-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>OMenschMut-preview.png</mp:pngFile>
+    <mp:pngHeight>155</mp:pngHeight>
+    <mp:pngWidth>785</mp:pngWidth>
+
+    <mp:id>Mutopia-2007/07/07-1000</mp:id>
+    <mp:maintainer>Pierre Pouillon</mp:maintainer>
+    <mp:maintainerEmail>pierre@ssji.net</mp:maintainerEmail>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.10.25</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>

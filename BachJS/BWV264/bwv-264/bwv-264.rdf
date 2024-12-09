@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:mp="http://www.mutopiaproject.org/piece-data/0.1/">
+
+<rdf:Description rdf:about=".">
+    <mp:title>Als der gütige Gott vollenden wollt' sein Wort</mp:title>
+    <mp:composer>BachJS</mp:composer>
+    <mp:opus>BWV 264</mp:opus>
+    <mp:lyricist/>
+    <mp:for>Voice (SATB)</mp:for>
+    <mp:date/>
+    <mp:style>Baroque</mp:style>
+    <mp:metre/>
+    <mp:arranger/>
+    <mp:source>Bach-Gesellschaft Ausgabe, Band 39, Breitkopf und Härtel, 1892 and Antonio Armendariz 2007</mp:source>
+    <mp:licence>Creative Commons Attribution-ShareAlike 4.0</mp:licence>
+
+    <mp:lyFile>bwv-264.ly</mp:lyFile>
+    <mp:midFile>bwv-264.mid</mp:midFile>
+    <mp:psFileA4>bwv-264-a4.ps.gz</mp:psFileA4>
+    <mp:pdfFileA4>bwv-264-a4.pdf</mp:pdfFileA4>
+    <mp:psFileLet>bwv-264-let.ps.gz</mp:psFileLet>
+    <mp:pdfFileLet>bwv-264-let.pdf</mp:pdfFileLet>
+    <mp:pngFile>bwv-264-preview.svg</mp:pngFile>
+    <mp:pngHeight>0</mp:pngHeight>
+    <mp:pngWidth>0</mp:pngWidth>
+
+    <mp:id>Mutopia-2016/05/18-1529</mp:id>
+    <mp:maintainer>Urs Metzger</mp:maintainer>
+    <mp:maintainerEmail/>
+    <mp:maintainerWeb/>
+    <mp:moreInfo/>
+    <mp:lilypondVersion>2.18.2</mp:lilypondVersion>
+</rdf:Description>
+
+</rdf:RDF>
