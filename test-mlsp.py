@@ -6,8 +6,8 @@ def main():
     client = imslp.client.ImslpClient()
 
     # Example usage: search for a work by title or by composer
-    work_title = "Symphony No. 5"
-    composer = "Beethoven"
+    work_title = "A Lively Tune"
+    composer = "Carse"
 
     # Attempt to search works using the provided title and composer
     results = client.search_works(title=work_title, composer=composer)
