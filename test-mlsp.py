@@ -1,6 +1,5 @@
 import imslp.client
 
-
 def main():
     # Initialize the client (assuming user/pass if needed for login)
     client = imslp.client.ImslpClient()
