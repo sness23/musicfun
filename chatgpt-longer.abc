@@ -1,0 +1,26 @@
+X:1
+T:Extended Bach-like Cello Piece
+C:in the style of J.S. Bach
+M:3/4
+L:1/8
+Q:1/4=100
+K:G
+
+% A Section (familiar)
+|: G B d G B d | e d c B A G | G B d G B d | g f e d E D :|
+
+% B Section
+|: D F A d f a | g f e d c B | A c E c E A | d c B A G G :|
+
+% C Section (emphasis around E minor)
+|: E G B E G B | a g f e d c | E G B E G B | a g f e D C :|
+
+% D Section (focus around D)
+|: D F A D F A | g f e d c B | D F A D F A | g f e d C B :|
+
+% E Section (returning to G with variation)
+|: G B d g b g | a f e d c B | G B d g b g | e d c B A G :|
+
+% F Section (final reaffirmation)
+|: G B d G B d | e f g a f e | d B G A B d | g f e d E D :|
+
