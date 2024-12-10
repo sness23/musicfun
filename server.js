@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const { Configuration, OpenAIApi } = require('openai');
+const { OpenAI } = require('openai');
 const { exec } = require('child_process');
 const fs = require('fs');
 const path = require('path');
@@ -13,10 +13,10 @@ app.use(cors());
 app.use(bodyParser.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
-const configuration = new Configuration({
+// Initialize OpenAI client with new API format
+const client = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
-const openai = new OpenAIApi(configuration);
 
 // Utility to run shell commands
 function runCommand(cmd) {
@@ -43,14 +43,14 @@ Keep it very simple and short. Use a single-voice line. Please only return the A
   `;
 
   try {
-    // Get ABC code from ChatGPT
-    const completion = await openai.createChatCompletion({
+    // Get ABC code from OpenAI (using new API)
+    const completion = await client.chat.completions.create({
       model: "gpt-3.5-turbo",
       messages: [{ role: "user", content: prompt }],
       temperature: 0.7
     });
 
-    const abcCode = completion.data.choices[0].message.content.trim();
+    const abcCode = completion.choices[0].message.content.trim();
     if (!abcCode.startsWith('X:') && !abcCode.includes('K:')) {
       return res.status(400).json({ error: "Invalid ABC code generated." });
     }
@@ -74,15 +74,9 @@ Keep it very simple and short. Use a single-voice line. Please only return the A
     // Convert PDF to PNG
     await runCommand(`convert -density 200 ${pdfFile} -quality 90 ${pngFile}`);
 
-    // Read PNG file and encode as base64 (or you could just serve the file)
+    // Read PNG file and encode as base64
     const imgData = fs.readFileSync(pngFile);
     const base64Image = `data:image/png;base64,${imgData.toString('base64')}`;
-
-    // Cleanup files if desired, or keep them for debugging
-    // fs.unlinkSync(abcFile);
-    // fs.unlinkSync(lyFile);
-    // fs.unlinkSync(pdfFile);
-    // fs.unlinkSync(pngFile);
 
     res.json({ image: base64Image });
 
@@ -92,9 +86,7 @@ Keep it very simple and short. Use a single-voice line. Please only return the A
   }
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => {
   console.log(`Server listening on port ${PORT}`);
 });
-
-
