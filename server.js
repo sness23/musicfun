@@ -62,12 +62,13 @@ Keep it very simple and short. Use a single-voice line. Please only return the A
     const pdfFile = path.join(__dirname, 'tmp', `score-${uniqueId}.pdf`);
     const pngFile = path.join(__dirname, 'tmp', `score-${uniqueId}.png`);
 
+      console.log("abcCode="+abcCode);
     // Write ABC to file
     fs.writeFileSync(abcFile, abcCode, 'utf-8');
-
+      console.log('hmm');
     // Convert ABC to LilyPond
     await runCommand(`abc2ly ${abcFile} -o ${lyFile}`);
-
+      console.log('hmm2');
     // Convert LilyPond to PDF
     await runCommand(`lilypond --output=${path.join(__dirname, 'tmp')} ${lyFile}`);
 
