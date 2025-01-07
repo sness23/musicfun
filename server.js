@@ -37,15 +37,16 @@ app.post('/generate', async (req, res) => {
 
   // Prompt for ChatGPT
   const prompt = `
-You are a music arranger. Please provide a short musical excerpt in ABC notation that is suitable for a ${skillLevel} ${instrument}. 
-Focus on ${technique || 'general technique'} if applicable. 
-Keep it very simple and short. Use a single-voice line. Please only return the ABC code.
+You are a music arranger. Please provide one page of sheet music in ABC notation that is suitable for a ${skillLevel} ${instrument}. 
+Focus on ${technique || 'general technique'}. 
+Use a single-voice line.  Ensure to only return notes in the range
+and appropriate scale for the ${instrument}.  Please only return the ABC code.
   `;
 
   try {
     // Get ABC code from OpenAI (using new API)
     const completion = await client.chat.completions.create({
-      model: "gpt-3.5-turbo",
+      model: "gpt-4o",
       messages: [{ role: "user", content: prompt }],
       temperature: 0.7
     });
@@ -61,15 +62,14 @@ Keep it very simple and short. Use a single-voice line. Please only return the A
     const lyFile = path.join(__dirname, 'tmp', `score-${uniqueId}.ly`);
     const pdfFile = path.join(__dirname, 'tmp', `score-${uniqueId}.pdf`);
     const pngFile = path.join(__dirname, 'tmp', `score-${uniqueId}.png`);
-
-      console.log("abcCode="+abcCode);
+      
     // Write ABC to file
     fs.writeFileSync(abcFile, abcCode, 'utf-8');
-      console.log('hmm');
+      
     // Convert ABC to LilyPond
     await runCommand(`abc2ly ${abcFile} -o ${lyFile}`);
-      console.log('hmm2');
-    // Convert LilyPond to PDF
+
+    // convert LilyPond to PDF
     await runCommand(`lilypond --output=${path.join(__dirname, 'tmp')} ${lyFile}`);
 
     // Convert PDF to PNG

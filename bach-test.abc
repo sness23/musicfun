@@ -1,0 +1,26 @@
+X:1
+T: Bach Cello Suite No.1 - Prelude (Beginner Version)
+C: Johann Sebastian Bach
+%%subtitle (Simplified Note-Group Arrangement)
+M:none         % We’ll use 'no fixed meter' because each group is a different length.
+L:1/8          % Default note length = eighth note.
+Q:1/4=80       % Suggested tempo (quarter = 80), adjust as you like.
+K:G            % Key of G major
+
+% ----------------------------------------------------
+% Bars 1–4 (grouped as one “measure” in this simplified version)
+[| G A B C D E ^F G | 
+
+% Bars 5–8
+ C B A G G ^F E D |
+
+% Bars 9–12
+ G A B C A B C B G D E F |
+
+% Bars 13–16
+ C B A G B A G D E F G |
+
+% Bars 17–20
+ G A B C B A G D E ^F G |]
+% ----------------------------------------------------
+
